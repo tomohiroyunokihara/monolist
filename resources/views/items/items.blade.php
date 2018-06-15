@@ -1,4 +1,4 @@
-@@if ($items)
+@if ($items)
     <div class="row">
         @foreach ($items as $item)
             <div class="item">
